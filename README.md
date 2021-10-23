@@ -1,2 +1,2 @@
 # buildspacenft_project
-project to mint nft
+project to mint nft on ethereum testnet
